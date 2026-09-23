@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ai-charya-banner.png" alt="AI-Charya - Adaptive Learning Platform" width="100%">
+</p>
 # AI-Charya 🎓🤖
 
 > **An adaptive learning platform that personalizes education using learner-state estimation, diagnostic assessment, and explainable activity planning.**
