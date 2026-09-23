@@ -1,0 +1,11 @@
+packages:
+  - "."
+
+overrides:
+  qs: 6.16.0
+
+allowBuilds:
+  esbuild: true
+
+onlyBuiltDependencies:
+  - esbuild
