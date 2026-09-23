@@ -11,6 +11,8 @@ AI-Charya is a learner-first adaptive learning platform designed for students in
 
 The current implementation provides foundation learning paths across **Mathematics, Science, English, Social Science, Computer Science, and Hindi**, with Grade 6 Fractions serving as the deepest populated learning domain.
 
+> 🚧 **Work in Progress:** AI-Charya is an actively developed project. Features, learning content, UI, and system capabilities are still being refined and expanded.
+
 ---
 
 ## 🚀 Key Features
